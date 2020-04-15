@@ -54,3 +54,9 @@ JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js,
 JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
 1586940553980	Marionette	INFO	Listening on port 38691
 1586940554083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.pavantestingtools.com/, line 1143: ReferenceError: jQuery is not defined
+1586940768908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQb0Yu4"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1586940776059	Marionette	INFO	Listening on port 43465
+1586940776124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/charts/47/js/jsapi_compiled_corechart_module.js, line 2: ReferenceError: gvjs_zK is not defined

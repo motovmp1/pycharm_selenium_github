@@ -29,7 +29,7 @@ print(driver.current_url)
 # This is go back
 time.sleep(4)
 driver.back()
-print("I ma inside the back button")
+print("I ma inside the <-- back button")
 
 # This is a title of the page
 time.sleep(1)
