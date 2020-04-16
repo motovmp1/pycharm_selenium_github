@@ -25,10 +25,14 @@ print(driver.current_url)
 assert "Welcome: Mercury Tours" in driver.title
 
 # This is provide user name
+print("name...")
 driver.find_element_by_xpath("//input[@name='userName']").send_keys("tutorial")
+time.sleep(1)
 
 # This is provide password into field
+print("password...")
 driver.find_element_by_xpath("//input[@name='password']").send_keys("tutorial")
+time.sleep(1)
 
 # This is a login button press
 driver.find_element_by_xpath("//input[@name='login']").click()
@@ -43,6 +47,7 @@ for timer1 in range(0, 20, 1):
         break
 
 second_page = driver.title
+print("")
 print(second_page)
 
 assert "Find a Flight: Mercury Tours:" in driver.title
