@@ -33,11 +33,14 @@ driver.find_element_by_xpath("//input[@name='password']").send_keys("tutorial")
 # This is a login button press
 driver.find_element_by_xpath("//input[@name='login']").click()
 
+time.sleep(1)
+
 timer1 = 0
-for timer1 in range(0, 10, 1):
+for timer1 in range(0, 20, 1):
     print(timer1, end=". ", flush=True)
     time.sleep(1)
-
+    if driver.title == "Find a Flight: Mercury Tours:":
+        break
 
 second_page = driver.title
 print(second_page)
