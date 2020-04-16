@@ -12,7 +12,8 @@ from selenium.webdriver.common.keys import Keys
 driver = webdriver.Firefox()
 
 driver.get("http://www.newtours.demoaut.com/")
-driver.implicitly_wait(35)
+# apply to all elements inside the page
+driver.implicitly_wait(6)
 
 # This is a title of the page
 time.sleep(1)
