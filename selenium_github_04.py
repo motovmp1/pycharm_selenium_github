@@ -35,6 +35,7 @@ driver.find_element_by_xpath("//input[@name='password']").send_keys("tutorial")
 time.sleep(1)
 
 # This is a login button press
+print("Press button")
 driver.find_element_by_xpath("//input[@name='login']").click()
 
 time.sleep(1)
