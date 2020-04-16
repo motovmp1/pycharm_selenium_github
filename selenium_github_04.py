@@ -34,7 +34,7 @@ driver.find_element_by_xpath("//input[@name='password']").send_keys("tutorial")
 driver.find_element_by_xpath("//input[@name='login']").click()
 
 timer1 = 0
-for timer1 in range(0, 30, 1):
+for timer1 in range(0, 10, 1):
     print(timer1, end=". ", flush=True)
     time.sleep(1)
 
