@@ -73,7 +73,7 @@ print(data_field[0])
 
 time.sleep(2)
 
-time.sleep(10)
+time.sleep(5)
 
 # This is close only one window
 print("Finished Testing running....")
