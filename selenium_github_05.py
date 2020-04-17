@@ -65,5 +65,6 @@ button_stop.click()
 
 
 # close all navigator
+print("Finished testing...")
 time.sleep(10)
 driver.close()
