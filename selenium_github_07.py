@@ -35,6 +35,9 @@ driver.find_element_by_id('RESULT_TextField-2').send_keys('de Pinho')
 
 driver.find_element_by_id('RESULT_TextField-3').send_keys('19-989490069')
 
+
+
+
 time.sleep(5)
 
 # This is close only one window
