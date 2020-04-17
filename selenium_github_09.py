@@ -13,7 +13,7 @@ from selenium.webdriver.support.ui import Select
 # *** Test Case ***
 driver = webdriver.Firefox()
 
-driver.get("http://www.newtours.demoaut.com/")
+driver.get("http://testautomationpractice.blogspot.com/")
 # apply to all elements inside the page
 driver.maximize_window()
 driver.implicitly_wait(6)
@@ -28,16 +28,18 @@ print(driver.current_url)
 
 # *******************  Test Case ***************************
 
+driver.find_element_by_xpath("//button[contains(text(),'Click Me')]").click()
+time.sleep(5)
+# switch command to accepted # dismiss can be used
+driver.switch_to_alert().accept()
+time.sleep(5)
 
-links_table = driver.find_elements_by_tag_name("a")
-print(f' This is links in the page : ', (len(links_table)))
+message = driver.find_element_by_xpath("//p[@id='demo']").text
+print(message)
 
-for index, link in enumerate(links_table):
-    print(index, link.text)
-    time.sleep(0.2)
+assert message == "You pressed OK!"
 
-print("Button register has been press....")
-driver.find_element_by_partial_link_text("REGISTER").click()
+
 
 # ********************  End Test Case  **********************
 
