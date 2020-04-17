@@ -534,3 +534,82 @@ JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js,
 1587106912656	Marionette	INFO	Listening on port 39071
 1587106912679	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587110143777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJgn9na"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110149939	Marionette	INFO	Listening on port 46733
+1587110149999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587110164301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGBR8es"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110170260	Marionette	INFO	Listening on port 33619
+1587110170313	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587110261012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4BMrcY"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110267567	Marionette	INFO	Listening on port 42701
+1587110267628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587110284319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexRLVIR"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110289243	Marionette	INFO	Listening on port 39927
+1587110289343	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587110360042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoCPjka"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110365994	Marionette	INFO	Listening on port 40307
+1587110366066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587110389920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWqdqgl"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110395401	Marionette	INFO	Listening on port 43523
+1587110395434	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587110451347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5NVf3g"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110456962	Marionette	INFO	Listening on port 35635
+1587110457067	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587110704201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea04oSF"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110709578	Marionette	INFO	Listening on port 43495
+1587110709614	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587110746844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIR9Nvj"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110752314	Marionette	INFO	Listening on port 41099
+1587110752364	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587110836680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoM7fL3"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110841778	Marionette	INFO	Listening on port 33479
+1587110841804	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587110937589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyy0a10"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110943325	Marionette	INFO	Listening on port 35301
+1587110943412	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587110991785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemUPZoK"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587110998306	Marionette	INFO	Listening on port 36633
+1587110998402	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587111672175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilear0rQs"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587111677428	Marionette	INFO	Listening on port 36023
+1587111677492	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587111820465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled7TQM3"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587111825210	Marionette	INFO	Listening on port 33441
+1587111825277	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587112028322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNYFd6l"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587112033852	Marionette	INFO	Listening on port 35787
+1587112033938	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587112098196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeRmqJ7"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587112103260	Marionette	INFO	Listening on port 33533
+1587112103316	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
