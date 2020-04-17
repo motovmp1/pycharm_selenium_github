@@ -35,8 +35,36 @@ driver.find_element_by_id('RESULT_TextField-2').send_keys('de Pinho')
 
 driver.find_element_by_id('RESULT_TextField-3').send_keys('19-989490069')
 
+male_button = driver.find_element_by_xpath("//label[contains(text(),'Male')]").is_selected()
+print(male_button)
+time.sleep(2)
+
+male_button = driver.find_element_by_xpath("//label[contains(text(),'Male')]").click()
+
+time.sleep(3)
+
+male_button_press = driver.find_element_by_xpath(
+    "//*[@id='RESULT_RadioButton-7_0']").is_selected()
+print(male_button_press)
+
+female_button = driver.find_element_by_xpath("//label[contains(text(),'Female')]")
+female_button.is_selected()
+time.sleep(1)
+print(female_button)
+time.sleep(3)
+female_button.click()
+time.sleep(2)
+
+female_button_press = driver.find_element_by_xpath("//input[@id='RESULT_RadioButton-7_1']").is_selected()
+print(female_button_press)
+
+driver.find_element_by_id("//td[@class='highlight']").click()
+time.sleep(1)
 
 
+# //input[@id='RESULT_CheckBox-8_0']
+
+time.sleep(2)
 
 time.sleep(5)
 
