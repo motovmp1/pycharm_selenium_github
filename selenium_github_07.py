@@ -58,15 +58,22 @@ time.sleep(2)
 female_button_press = driver.find_element_by_xpath("//input[@id='RESULT_RadioButton-7_1']").is_selected()
 print(female_button_press)
 
-driver.find_element_by_id("//td[@class='highlight']").click()
+driver.find_element_by_xpath("/html/body/form/div[2]/div[17]/table/tbody/tr[1]/td/label").click()
 time.sleep(1)
 
+driver.find_element_by_xpath("/html/body/form/div[2]/div[17]/table/tbody/tr[2]/td/label").click()
+time.sleep(1)
+
+data_field = driver.find_element_by_xpath("/html/body/form/div[2]/div[17]/table/tbody/tr[1]/td/label").text
+assert data_field == "Sunday"
+
+print(data_field[0])
 
 # //input[@id='RESULT_CheckBox-8_0']
 
 time.sleep(2)
 
-time.sleep(5)
+time.sleep(10)
 
 # This is close only one window
 print("Finished Testing running....")
