@@ -45,6 +45,6 @@ for option in all_options_label:
 
 time.sleep(6)
 
-# This is close only one window
+# This is close only one window navigator
 print("Finished Testing running....")
 driver.close()
