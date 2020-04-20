@@ -645,3 +645,117 @@ JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js,
 1587113047551	Marionette	INFO	Listening on port 44717
 1587113047659	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587361154225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF1Ot8W"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587361161434	Marionette	INFO	Listening on port 38113
+1587361161538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587361196892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej7Ttvu"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587361202170	Marionette	INFO	Listening on port 38517
+1587361202220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587361261161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehGVNI6"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587361266740	Marionette	INFO	Listening on port 32807
+1587361266776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587361306650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTHlZqH"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587361313308	Marionette	INFO	Listening on port 36327
+1587361313376	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587361749055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBqRdHo"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587361754333	Marionette	INFO	Listening on port 42741
+1587361754379	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6903): dconf-WARNING **: 13:49:27.075: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587361820627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevVPVq0"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587361826108	Marionette	INFO	Listening on port 37903
+1587361826147	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7146): dconf-WARNING **: 13:50:43.421: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587361885078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexLDbuj"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587361890425	Marionette	INFO	Listening on port 35555
+1587361890497	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7454): dconf-WARNING **: 13:51:43.766: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+[Parent 7402, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(/usr/lib/firefox/firefox:5529): dconf-WARNING **: 13:55:08.316: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: chrome://global/content/browser-child.js, line 407: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDocShell.doCommand]
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1587362265013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletikBF2"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587362271887	Marionette	INFO	Listening on port 40281
+1587362271934	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8230): dconf-WARNING **: 13:58:08.578: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587362410224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuvxhq4"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587362416032	Marionette	INFO	Listening on port 37441
+1587362416035	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8712): dconf-WARNING **: 14:00:31.261: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587362551458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOFtebD"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587362556197	Marionette	INFO	Listening on port 43951
+1587362556268	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9063): dconf-WARNING **: 14:02:50.358: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587362590048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSR27kq"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587362595036	Marionette	INFO	Listening on port 35679
+1587362595067	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9259): dconf-WARNING **: 14:03:28.521: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587362639613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZNqJkr"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587362644921	Marionette	INFO	Listening on port 43505
+1587362644939	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9462): dconf-WARNING **: 14:04:19.553: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587362902899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1WBWLU"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587362908046	Marionette	INFO	Listening on port 46681
+1587362908112	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10032): dconf-WARNING **: 14:08:42.570: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587363078986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZkX9tq"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587363084969	Marionette	INFO	Listening on port 40389
+1587363085007	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10312): dconf-WARNING **: 14:11:38.271: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587364168337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileerrNCi"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587364174794	Marionette	INFO	Listening on port 44927
+1587364174862	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11828): dconf-WARNING **: 14:29:48.816: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587364215236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexlICII"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587364221204	Marionette	INFO	Listening on port 42617
+1587364221256	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12019): dconf-WARNING **: 14:30:35.489: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1587364494323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZFulew"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1587364500155	Marionette	INFO	Listening on port 46423
+1587364500247	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
